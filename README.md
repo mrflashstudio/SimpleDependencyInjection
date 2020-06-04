@@ -1,4 +1,4 @@
-# SimpleDependencyInjection
+# SimpleDependencyInjection [![nuget](https://img.shields.io/nuget/v/SimpleDependencyInjection.svg)](https://www.nuget.org/packages/SimpleDependencyInjection)
 Just a very simple DI library i use across my projects.
 
 ## Usage
