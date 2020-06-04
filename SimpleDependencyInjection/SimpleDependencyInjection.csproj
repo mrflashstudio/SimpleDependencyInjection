@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>SimpleDependencyInjection</RootNamespace>
+    <Authors>mrflashstudio</Authors>
+    <Company />
+    <Version>1.0.0</Version>
+    <Description>Simple dependency injection library for .NET.</Description>
+    <Copyright></Copyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDependencyInjection", "SimpleDependencyInjection\SimpleDependencyInjection.csproj", "{53EA7E78-0C28-40BE-82B4-CFCFC39A7486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53EA7E78-0C28-40BE-82B4-CFCFC39A7486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EA7E78-0C28-40BE-82B4-CFCFC39A7486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EA7E78-0C28-40BE-82B4-CFCFC39A7486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EA7E78-0C28-40BE-82B4-CFCFC39A7486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2753D30B-16E7-4DBF-BDA4-DC28ED2D507C}
+	EndGlobalSection
+EndGlobal
